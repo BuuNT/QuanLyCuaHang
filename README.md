@@ -1,1 +1,3 @@
 # QuanLyCuaHang
+
+[Screenshot](Screenshot.png)
