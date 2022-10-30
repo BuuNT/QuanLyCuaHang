@@ -1,3 +1,3 @@
 # QuanLyCuaHang
 
-[Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
